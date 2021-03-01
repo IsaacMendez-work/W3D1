@@ -13,7 +13,7 @@ console.log(
 ); */
 
 let handsArray = [
-  `rock`, `paper`, `scissors`;
+  `rock`, `paper`, `scissors`
 ]
 
 function getComputerHand() {
