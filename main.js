@@ -12,14 +12,33 @@ console.log(
   `Your total, including gratuity, is: $${totalWithGrat(billAmount).toFixed(2)}.`
 ); */
 
-let handsArray = [
-  `rock`, `paper`, `scissors`
-]
+// challenge 2, unfinished
 
-function getComputerHand() {
-  return hands[parseInt(Math.random()*10) % 3];
-}
+// let handsArray = [
+//   `rock`, `paper`, `scissors`
+// ]
 
-function compare(handsArray) {}
+// function getComputerHand() {
+//   return hands[parseInt(Math.random()*10) % 3];
+// }
 
-console.log(handsArray[compare])
+// function compare(handsArray) {}
+
+// console.log(handsArray[compare])
+
+// challenge 3, unfinished
+
+// function outer(){
+//   let a = `this is outer a`;
+//   let b = David;
+//   function inner() {
+//    console.log(a);
+//    console.log(b);
+//    let a = `this is inner a`
+
+//   }
+
+//   inner();
+// }
+
+// outer();
